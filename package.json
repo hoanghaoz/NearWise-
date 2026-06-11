@@ -1,0 +1,12 @@
+{
+  "name": "nearwise",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "app/*",
+    "package/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
